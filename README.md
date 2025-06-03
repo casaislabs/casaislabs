@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Martín 👋</h1>
 <p align="center">
-  Digital entrepreneur focused on building at the intersection of <strong>blockchain</strong>, <strong>artificial intelligence</strong>, and <strong>finance</strong>.
+  Digital entrepreneur focused on building at the intersection of <strong>blockchain</strong>, <strong>artificial intelligence</strong>, <strong>finance</strong> and <strong>cybersecurity</strong>.
 </p>
 
 <p align="center">
