@@ -53,7 +53,7 @@ Since I discovered the tech world in high school, I haven't stopped creating. I'
 
 I'm always open to collaborating on ideas that add value and use technology as a catalyst for change.
 
-📬 **casaislabs@gmail.com**  
+📬 **martinperezcss@gmail.com**  
 🔗 [LinkedIn](https://www.linkedin.com/in/casaislabs)
 
 ---
