@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/martinpcs/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:martinperezcss@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:casaislabs@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -42,9 +42,9 @@ Since I discovered the tech world in high school, I haven't stopped creating. I'
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=martinperezcss&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinperezcss&layout=compact&theme=tokyonight" alt="Top langs" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=martinperezcss&theme=tokyonight" alt="GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=casaislabs&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=casaislabs&layout=compact&theme=tokyonight" alt="Top langs" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=casaislabs&theme=tokyonight" alt="GitHub streak" />
 </p>
 
 ---
@@ -53,7 +53,7 @@ Since I discovered the tech world in high school, I haven't stopped creating. I'
 
 I'm always open to collaborating on ideas that add value and use technology as a catalyst for change.
 
-📬 **martinperezcss@gmail.com**  
+📬 **casaislabs@gmail.com**  
 🔗 [LinkedIn](https://www.linkedin.com/in/casaislabs)
 
 ---
@@ -63,5 +63,5 @@ I'm always open to collaborating on ideas that add value and use technology as a
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=martinperezcss&label=Profile+Views&color=blue&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=casaislabs&label=Profile+Views&color=blue&style=flat" alt="Profile views" />
 </p>
