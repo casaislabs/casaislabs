@@ -198,7 +198,7 @@ Here are additional projects showcasing my breadth across Web3, security, AI too
 ## Connect with CasaisLabs
 
 Email: casaislabs@proton.me  
-X (Twitter): `https://x.com/CasaisLabs`  
+X (Twitter): [https://x.com/CasaisLabs](https://x.com/CasaisLabs)  
 Open to Web3 / AI / Security collaborations.
 
 
