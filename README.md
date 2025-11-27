@@ -70,6 +70,7 @@ Available for Web3/AI/Security collaborations. Email: `casaislabs@proton.me`.
 Store and emit on‑chain messages using **smart wallets** and integrate with The Graph for indexing.  
 **GitHub:** https://github.com/casaislabs/MessageVault  
 **Live Demo:** https://messagevault.casaislabs.com
+**Contract:** https://sepolia.etherscan.io/address/0xDB069580321E87f30eA171bf20a45BB18A3E5B09
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-blue" alt="React" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/TypeScript-blue" alt="TypeScript" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Solidity-orange" alt="Solidity" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Ethers.js-green" alt="Ethers.js" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Hardhat-black" alt="Hardhat" />
@@ -96,6 +97,7 @@ Create, pin, and share notes instantly with unique CIDs. **Serverless, privacy-f
 Autonomous AI agents with on-chain reputation, ERC-8004 agent NFTs, and x402 micropayment streams, with secure paywalled APIs on Base Sepolia.  
 **GitHub:** https://github.com/casaislabs/AutonomiX  
 **Live Demo:** https://autonomix.casaislabs.com
+**Contract:** https://sepolia.basescan.org/address/0x6633006c0825a55aC8dEEB66a2d1C5D1e9283725
 
 <p align="center">
   <img src="https://img.shields.io/badge/Express-black" alt="Express" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/TypeScript-blue" alt="TypeScript" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Solidity-orange" alt="Solidity" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Web3.js-green" alt="Web3.js" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/x402%20Micropayments-yellowgreen" alt="x402 Micropayments" />
@@ -110,6 +112,10 @@ Autonomous AI agents with on-chain reputation, ERC-8004 agent NFTs, and x402 mic
 Stake SPL tokens, earn rewards, and manage assets with a modern React frontend.  
 **GitHub:** https://github.com/casaislabs/StakeFlow  
 **Live Demo:** https://stakeflow.casaislabs.com
+
+Network: Solana Devnet  
+Stake Mint: https://explorer.solana.com/address/BeyV4AuCPvchhJc7NXSaAa2ECbPVkj39wy9CY7fu8opD?cluster=devnet  
+Reward Mint: https://explorer.solana.com/address/GQCW1M9szh426zC5a51BLZbPhvXoPnMKCeRWepyCziK3?cluster=devnet
 
 <p align="center">
   <img src="https://img.shields.io/badge/Solana-green" alt="Solana" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Anchor-green" alt="Anchor" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Rust-black" alt="Rust" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Solana%20Web3.js-green" alt="Solana Web3.js" />
@@ -159,7 +165,7 @@ Send SOL to multiple addresses efficiently using **Address Lookup Tables (ALTs)*
 Here are additional projects showcasing my breadth across Web3, security, AI tools, and DevOps.
 
 - [TEST-Token-Faucet](https://test-token-faucet.casaislabs.com) – ERC-20 token faucet on Sepolia with secure smart contracts and React frontend; includes limits, cooldown, blacklist, real-time metrics, and RainbowKit/Wagmi wallet connection.
-<a href="https://github.com/casaislabs/TEST-Token-Faucet"><img src="https://img.shields.io/badge/GitHub-Repo-black?logo=github" alt="GitHub Repo" /></a>&nbsp;<a href="https://test-token-faucet.casaislabs.com"><img src="https://img.shields.io/badge/Live%20Demo-Online-brightgreen" alt="Live Demo" /></a>
+<a href="https://github.com/casaislabs/TEST-Token-Faucet"><img src="https://img.shields.io/badge/GitHub-Repo-black?logo=github" alt="GitHub Repo" /></a>&nbsp;<a href="https://test-token-faucet.casaislabs.com"><img src="https://img.shields.io/badge/Live%20Demo-Online-brightgreen" alt="Live Demo" /></a>&nbsp;<a href="https://sepolia.etherscan.io/address/0xBCACFDD37b69eb826cF64E97bc4eDE7F33341B59"><img src="https://img.shields.io/badge/Contract%20(SimpleToken)-Online-brightgreen" alt="Contract (SimpleToken)" /></a>&nbsp;<a href="https://sepolia.etherscan.io/address/0x7B07473827BCc65714E2C28856231B3B66Cf2DdF"><img src="https://img.shields.io/badge/Contract%20(TokenFaucet)-Online-brightgreen" alt="Contract (TokenFaucet)" /></a>
 - [HoneyGuard](https://github.com/casaislabs/HoneyGuard) – Advanced honeypot and threat analysis system with real-time attack detection, logging, and analytics; features a modern React dashboard, simulated services, and strong security.
 <a href="https://github.com/casaislabs/HoneyGuard"><img src="https://img.shields.io/badge/GitHub-Repo-black?logo=github" alt="GitHub Repo" /></a>
 - [NameForge](https://github.com/casaislabs/NameForge) – AI-powered startup name generator with domain availability checks; uses Google’s Gemma 3 model and a modern Gradio web interface.
@@ -169,7 +175,7 @@ Here are additional projects showcasing my breadth across Web3, security, AI too
 - [TimeShift-NFT (contract)](https://sepolia.etherscan.io/address/0xA7FF038011ab80e0837262c9BAe3814352317cF4) – Dynamic NFT updating its on-chain SVG color in real time, based on the current hour.
 <a href="https://github.com/casaislabs/TimeShift-NFT"><img src="https://img.shields.io/badge/GitHub-Repo-black?logo=github" alt="GitHub Repo" /></a>&nbsp;<a href="https://sepolia.etherscan.io/address/0xA7FF038011ab80e0837262c9BAe3814352317cF4"><img src="https://img.shields.io/badge/Contract-Online-brightgreen" alt="Contract" /></a>
 - [KeywordChain](https://keyword-chain.casaislabs.com/) – Blockchain-based message chain with keyword validation, deployed on the Sepolia test network.
-<a href="https://github.com/casaislabs/KeywordChain"><img src="https://img.shields.io/badge/GitHub-Repo-black?logo=github" alt="GitHub Repo" /></a>&nbsp;<a href="https://keyword-chain.casaislabs.com/"><img src="https://img.shields.io/badge/Live%20Demo-Online-brightgreen" alt="Live Demo" /></a>
+<a href="https://github.com/casaislabs/KeywordChain"><img src="https://img.shields.io/badge/GitHub-Repo-black?logo=github" alt="GitHub Repo" /></a>&nbsp;<a href="https://keyword-chain.casaislabs.com/"><img src="https://img.shields.io/badge/Live%20Demo-Online-brightgreen" alt="Live Demo" /></a>&nbsp;<a href="https://sepolia.etherscan.io/address/0xAD17ee34a3A2b59727C08E992a84a1F160BF21C0"><img src="https://img.shields.io/badge/Contract-Online-brightgreen" alt="Contract" /></a>
 - [web3-horoscope](https://web3-horoscope.casaislabs.com) – Web3 dApp generating personalized horoscopes from Ethereum wallets; connect your wallet to discover zodiac, lucky traits, and daily challenges.
 <a href="https://github.com/casaislabs/web3-horoscope"><img src="https://img.shields.io/badge/GitHub-Repo-black?logo=github" alt="GitHub Repo" /></a>&nbsp;<a href="https://web3-horoscope.casaislabs.com"><img src="https://img.shields.io/badge/Live%20Demo-Online-brightgreen" alt="Live Demo" /></a>
 - [send-flow](https://send-eth.casaislabs.com/) – React DApp to connect Ethereum wallets, send ETH/tokens, view real-time balances, and track transactions; built with wagmi, ethers.js, RainbowKit, and TailwindCSS.
