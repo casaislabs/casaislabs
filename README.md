@@ -113,9 +113,10 @@ Stake SPL tokens, earn rewards, and manage assets with a modern React frontend.
 **GitHub:** https://github.com/casaislabs/StakeFlow  
 **Live Demo:** https://stakeflow.casaislabs.com
 
-Network: Solana Devnet  
-Stake Mint: https://explorer.solana.com/address/BeyV4AuCPvchhJc7NXSaAa2ECbPVkj39wy9CY7fu8opD?cluster=devnet  
-Reward Mint: https://explorer.solana.com/address/GQCW1M9szh426zC5a51BLZbPhvXoPnMKCeRWepyCziK3?cluster=devnet
+Devnet scanners:  
+Stake Mint: https://solscan.io/token/BeyV4AuCPvchhJc7NXSaAa2ECbPVkj39wy9CY7fu8opD?cluster=devnet · https://explorer.solana.com/address/BeyV4AuCPvchhJc7NXSaAa2ECbPVkj39wy9CY7fu8opD?cluster=devnet  
+Reward Mint: https://solscan.io/token/GQCW1M9szh426zC5a51BLZbPhvXoPnMKCeRWepyCziK3?cluster=devnet · https://explorer.solana.com/address/GQCW1M9szh426zC5a51BLZbPhvXoPnMKCeRWepyCziK3?cluster=devnet  
+Program ID: https://solscan.io/address/4cUDbCQvhBSzWbTivv3ZscDkePVweqRFAHbgDUKLkfdK?cluster=devnet · https://explorer.solana.com/address/4cUDbCQvhBSzWbTivv3ZscDkePVweqRFAHbgDUKLkfdK?cluster=devnet
 
 <p align="center">
   <img src="https://img.shields.io/badge/Solana-green" alt="Solana" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Anchor-green" alt="Anchor" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Rust-black" alt="Rust" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Solana%20Web3.js-green" alt="Solana Web3.js" />
