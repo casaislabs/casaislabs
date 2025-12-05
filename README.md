@@ -13,9 +13,9 @@
 
 ## Table of Contents
 
- - [Areas of Expertise](#areas-of-expertise)
+- [Areas of Expertise](#areas-of-expertise)
 - [Tech Stack](#tech-stack)
-- [Featured Projects](#featured-projects): [MessageVault](#messagevault) | [HashNotes](#hashnotes) | [AutonomiX](#autonomix) | [StakeFlow](#stakeflow) | [StableGuard](#stableguard) | [CryptoLens](#cryptolens) | [SolSplit](#solsplit)
+- [Featured Projects](#featured-projects): [AutonomiX](#autonomix) | [StableGuard](#stableguard) | [StakeFlow](#stakeflow) | [MessageVault](#messagevault) | [HashNotes](#hashnotes) | [SolSplit](#solsplit) | [CryptoLens](#cryptolens)
 - [Other Projects](#other-projects)
 - [Contact](#connect-with-casaislabs)
 ---
@@ -63,36 +63,8 @@ Available for Web3/AI/Security collaborations. Email: `casaislabs@proton.me`.
 <p>Below are some of the most relevant Web3, AI, and security projects I’ve built.</p>
 
 
-<a id="messagevault"></a>
-### 1. [MessageVault](https://messagevault.casaislabs.com)
-<a href="https://messagevault.casaislabs.com"><img src="https://img.shields.io/badge/Live%20Demo-Online-brightgreen" alt="Live Demo" /></a>
-**Decentralized smart account DApp with Account Abstraction (EIP-4337)**  
-Store and emit on‑chain messages using **smart wallets** and integrate with The Graph for indexing.  
-**GitHub:** https://github.com/casaislabs/MessageVault  
-**Live Demo:** https://messagevault.casaislabs.com
-**Contract:** https://sepolia.etherscan.io/address/0xDB069580321E87f30eA171bf20a45BB18A3E5B09
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-blue" alt="React" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/TypeScript-blue" alt="TypeScript" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Solidity-orange" alt="Solidity" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Ethers.js-green" alt="Ethers.js" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Hardhat-black" alt="Hardhat" />
-  <br/>
-  <img src="https://img.shields.io/badge/The%20Graph-green" alt="The Graph" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/EIP-4337-green" alt="Account Abstraction (EIP-4337)" />
-</p>
-
-
-<a id="hashnotes"></a>
-### 2. [HashNotes](https://hashnotes.casaislabs.com)
-<a href="https://hashnotes.casaislabs.com"><img src="https://img.shields.io/badge/Live%20Demo-Online-brightgreen" alt="Live Demo" /></a>
-**Minimalist decentralized notes app on IPFS (via Pinata)**  
-Create, pin, and share notes instantly with unique CIDs. **Serverless, privacy-first, and fast**.  
-**GitHub:** https://github.com/casaislabs/HashNotes  
-**Live Demo:** https://hashnotes.casaislabs.com
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Next.js-blue" alt="Next.js" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/TailwindCSS-blue" alt="TailwindCSS" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/TypeScript-blue" alt="TypeScript" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/IPFS-green" alt="IPFS" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Pinata-green" alt="Pinata" />
-</p>
-
 <a id="autonomix"></a>
-### 3. [AutonomiX](https://autonomix.casaislabs.com)
+### 1. [AutonomiX](https://autonomix.casaislabs.com)
 <a href="https://autonomix.casaislabs.com"><img src="https://img.shields.io/badge/Live%20Demo-Online-brightgreen" alt="Live Demo" /></a>
 Autonomous AI agents with on-chain reputation, ERC-8004 agent NFTs, and x402 micropayment streams, with secure paywalled APIs on Base Sepolia.  
 **GitHub:** https://github.com/casaislabs/AutonomiX  
@@ -105,8 +77,19 @@ Autonomous AI agents with on-chain reputation, ERC-8004 agent NFTs, and x402 mic
   <img src="https://img.shields.io/badge/ERC-8004-green" alt="ERC-8004 Agent NFTs" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/EVM-green" alt="EVM" />
 </p>
 
+<a id="stableguard"></a>
+### 2. [StableGuard](https://github.com/casaislabs/StableGuard)
+**Modular, gas-optimized stablecoin protocol**  
+Secure, composable DeFi primitives, Dutch auctions, oracle safety, and repeg mechanisms.  
+Comprehensive test suite using Foundry, with fuzzing and invariant checks.  
+**GitHub:** https://github.com/casaislabs/StableGuard  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Solidity-orange" alt="Solidity" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Foundry-black" alt="Foundry" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/DeFi-green" alt="DeFi" />
+</p>
+
 <a id="stakeflow"></a>
-### 4. [StakeFlow](https://stakeflow.casaislabs.com)
+### 3. [StakeFlow](https://stakeflow.casaislabs.com)
 <a href="https://stakeflow.casaislabs.com"><img src="https://img.shields.io/badge/Live%20Demo-Online-brightgreen" alt="Live Demo" /></a>
 **High-performance Solana staking DApp built with Anchor and an on-chain Rust program**  
 Stake SPL tokens, earn rewards, and manage assets with a modern React frontend.  
@@ -124,31 +107,35 @@ Program ID: https://solscan.io/address/4cUDbCQvhBSzWbTivv3ZscDkePVweqRFAHbgDUKLk
   <img src="https://img.shields.io/badge/React-blue" alt="React" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/TypeScript-blue" alt="TypeScript" />
 </p>
 
-<a id="stableguard"></a>
-### 5. [StableGuard](https://github.com/casaislabs/StableGuard)
-**Modular, gas-optimized stablecoin protocol**  
-Secure, composable DeFi primitives, Dutch auctions, oracle safety, and repeg mechanisms.  
-Comprehensive test suite using Foundry, with fuzzing and invariant checks.  
-**GitHub:** https://github.com/casaislabs/StableGuard  
+<a id="messagevault"></a>
+### 4. [MessageVault](https://messagevault.casaislabs.com)
+<a href="https://messagevault.casaislabs.com"><img src="https://img.shields.io/badge/Live%20Demo-Online-brightgreen" alt="Live Demo" /></a>
+**Decentralized smart account DApp with Account Abstraction (EIP-4337)**  
+Store and emit on‑chain messages using **smart wallets** and integrate with The Graph for indexing.  
+**GitHub:** https://github.com/casaislabs/MessageVault  
+**Live Demo:** https://messagevault.casaislabs.com
+**Contract:** https://sepolia.etherscan.io/address/0xDB069580321E87f30eA171bf20a45BB18A3E5B09
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Solidity-orange" alt="Solidity" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Foundry-black" alt="Foundry" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/DeFi-green" alt="DeFi" />
+  <img src="https://img.shields.io/badge/React-blue" alt="React" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/TypeScript-blue" alt="TypeScript" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Solidity-orange" alt="Solidity" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Ethers.js-green" alt="Ethers.js" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Hardhat-black" alt="Hardhat" />
+  <br/>
+  <img src="https://img.shields.io/badge/The%20Graph-green" alt="The Graph" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/EIP-4337-green" alt="Account Abstraction (EIP-4337)" />
 </p>
 
-<a id="cryptolens"></a>
-### 6. [CryptoLens](https://cryptolens.casaislabs.com)
-<a href="https://cryptolens.casaislabs.com"><img src="https://img.shields.io/badge/Live%20Demo-Online-brightgreen" alt="Live Demo" /></a>
-**Web3 dashboard for crypto assets**  
-Track prices, manage favorites, and connect wallets in a fast, responsive interface.  
-**GitHub:** https://github.com/casaislabs/CryptoLens  
-**Live Demo:** https://cryptolens.casaislabs.com
+<a id="hashnotes"></a>
+### 5. [HashNotes](https://hashnotes.casaislabs.com)
+<a href="https://hashnotes.casaislabs.com"><img src="https://img.shields.io/badge/Live%20Demo-Online-brightgreen" alt="Live Demo" /></a>
+**Minimalist decentralized notes app on IPFS (via Pinata)**  
+Create, pin, and share notes instantly with unique CIDs. **Serverless, privacy-first, and fast**.  
+**GitHub:** https://github.com/casaislabs/HashNotes  
+**Live Demo:** https://hashnotes.casaislabs.com
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Next.js-blue" alt="Next.js" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/React-blue" alt="React" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Supabase-black" alt="Supabase" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Ethers.js-green" alt="Ethers.js" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/NextAuth-black" alt="NextAuth" />
+  <img src="https://img.shields.io/badge/Next.js-blue" alt="Next.js" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/TailwindCSS-blue" alt="TailwindCSS" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/TypeScript-blue" alt="TypeScript" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/IPFS-green" alt="IPFS" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Pinata-green" alt="Pinata" />
 </p>
 
 <a id="solsplit"></a>
-### 7. [SolSplit](https://solsplit.casaislabs.com)
+### 6. [SolSplit](https://solsplit.casaislabs.com)
 <a href="https://solsplit.casaislabs.com"><img src="https://img.shields.io/badge/Live%20Demo-Online-brightgreen" alt="Live Demo" /></a>
 **Solana multi‑send tool for efficient batch transactions**  
 Send SOL to multiple addresses efficiently using **Address Lookup Tables (ALTs)** and batched v0 transactions on Solana; supports large recipient lists.  
@@ -157,6 +144,18 @@ Send SOL to multiple addresses efficiently using **Address Lookup Tables (ALTs)*
 
 <p align="center">
   <img src="https://img.shields.io/badge/Solana-green" alt="Solana" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Rust-black" alt="Rust" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Solana%20Web3.js-purple" alt="Solana Web3.js" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Batch%20Transactions-orange" alt="Batch Transactions" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/ALTs-lightgrey" alt="Address Lookup Tables" />
+</p>
+
+<a id="cryptolens"></a>
+### 7. [CryptoLens](https://cryptolens.casaislabs.com)
+<a href="https://cryptolens.casaislabs.com"><img src="https://img.shields.io/badge/Live%20Demo-Online-brightgreen" alt="Live Demo" /></a>
+**Web3 dashboard for crypto assets**  
+Track prices, manage favorites, and connect wallets in a fast, responsive interface.  
+**GitHub:** https://github.com/casaislabs/CryptoLens  
+**Live Demo:** https://cryptolens.casaislabs.com
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-blue" alt="Next.js" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/React-blue" alt="React" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Supabase-black" alt="Supabase" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Ethers.js-green" alt="Ethers.js" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/NextAuth-black" alt="NextAuth" />
 </p>
 
 
