@@ -111,7 +111,7 @@ A selection of additional protocol, tooling, and infrastructure projects:
 - **React-CI-CD** — https://github.com/casaislabs/React-CI-CD  
 
 More projects and live demos:  
-https://www.casaislabs.com
+https://casaislabs.com
 
 
 ---
@@ -120,7 +120,7 @@ https://www.casaislabs.com
 
 - Email: casaislabs@proton.me  
 - X: https://x.com/CasaisLabs  
-- Portfolio: https://www.casaislabs.com  
+- Portfolio: https://casaislabs.com  
 
 <p align="center">
   <i>— Innovation comes from system design, robustness comes from execution.</i>
